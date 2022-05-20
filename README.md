@@ -35,4 +35,4 @@
 <h4>mkdir</h4>
 <p>This command shorthand for mkdir -pv. This used the same as mkdir and allows users to create directories and parent directories in one line with a verbose output to show what has been done</p>
 <h4>gc</h4>
-<p>This command is a shorthand for git checkout. This will make it faster to switch between branches as well as creating new branches by adding the -b after gc. Example; **gc [branch name]** to switch branch, **gc -b [branch name]** creates new branch.</p> 
+<p>This command is a shorthand for git checkout. This will make it faster to switch between branches as well as creating new branches by adding the -b after gc. Example; __gc [branch name]__ to switch branch, **gc -b [branch name]** creates new branch.</p> 
