@@ -4,14 +4,14 @@
 <h2>Installation</h2>
 <p>To install the shortcuts follow these steps:</p>
 <ol>
-<li>Navigate to your root folder: cd ~</li>
+<li>Navigate to your root folder: <code>cd ~</code></li>
 <li>Run the command: git clone https://github.com/lhack-jpeg/aliases.git</li>
-<li>Check to see if the folder has been copied with :ll</li>
-<li>Navigate into the alias folder: cd aliases</li>
-<li>Give the shell script permissions to run: chmod u+x copy_aliases</li>
-<li>Navigate back to the root folder: cd ~</li>
-<li>Run the following shell command: source ~/aliases/copy_aliases</li>
-<li>Check to see your new aliases: alias</li>
+<li>Check to see if the folder has been copied with: <code>ll</code></li>
+<li>Navigate into the alias folder: <code>cd aliases</code></li>
+<li>Give the shell script permissions to run: <code>chmod u+x copy_aliases</code></li>
+<li>Navigate back to the root folder: <code>cd ~</code></li>
+<li>Run the following shell command: <code>source ~/aliases/copy_aliases</code></li>
+<li>Check to see your new aliases: <code>alias</code></li>
 </ol>
 <h3>How to use:</h3>
 <h4>gia</h4>
