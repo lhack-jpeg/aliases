@@ -1,0 +1,3 @@
+#!/bin/bash
+cp ~/aliases/.bash_aliases /root/
+source ~/.bashrc
