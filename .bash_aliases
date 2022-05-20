@@ -1,0 +1,8 @@
+alias gic='git commit -m'
+alias gia='git add'
+alias gip='git push'
+alias gwb='git branch -a'
+alias em='emacs'
+alias ..='cd ..'
+alias c='clear'
+alias mkdir='mkdir -pv'
