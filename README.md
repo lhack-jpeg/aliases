@@ -34,5 +34,5 @@
 <p>c is shorthand for clear. This command will clear the current lines in the terminal</p>
 <h4>mkdir</h4>
 <p>This command shorthand for mkdir -pv. This used the same as mkdir and allows users to create directories and parent directories in one line with a verbose output to show what has been done</p>
-<h4>gc</h4>
-<p>This command is a shorthand for git checkout. This will make it faster to switch between branches as well as creating new branches by adding the -b after gc. Example; <strong>gc [branch name]</strong> to switch branch, <strong>gc -b [branch name]</strong> creates new branch.</p> 
+<h4>gich</h4>
+<p>This command is a shorthand for git checkout. This will make it faster to switch between branches as well as creating new branches by adding the -b after gich. Example; <strong>gich [branch name]</strong> to switch branch, <strong>gich -b [branch name]</strong> creates new branch.</p> 
