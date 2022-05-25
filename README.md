@@ -38,3 +38,5 @@
 <p>This command is a shorthand for git checkout. This will make it faster to switch between branches as well as creating new branches by adding the -b after gich. Example; <strong>gich [branch name]</strong> to switch branch, <strong>gich -b [branch name]</strong> creates new branch.</p> 
 <h4>sheb</h4>
 <p>This command is shorthand for echo '#!/bin/bash >'. To use the command use sheb [filename]</p>
+<h4>chux</h4>
+<p>This command is a shortand for <strong>chmod u+x</strong>. To use this command, use <strong>chux [filename]</strong></p>
