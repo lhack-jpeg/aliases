@@ -40,3 +40,5 @@
 <p>This command is shorthand for echo '#!/bin/bash >'. To use the command use sheb [filename]</p>
 <h4>chux</h4>
 <p>This command is a shortand for <strong>chmod u+x</strong>. To use this command, use <strong>chux [filename]</strong></p>
+<h4>envb</h4>
+<p>This command is a shorthand for creating a bash script that is portable on different *nix systems. To use the command, use <strong>envb [filename]</strong></p>
