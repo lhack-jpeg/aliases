@@ -46,3 +46,5 @@
 <p>This command is a shorthand for creating a bash script that is portable on different *nix systems. To use the command, use <strong>envb [filename]</strong></p>
 <h4>gcco</h4>
 <p>This command is a shorthand for compiling c files with the holberton options. use <strong> gcco [filename]</strong></p>
+<h4>rmf~</h4>
+<p>This command removes all files ending with '~' in the current directory forcefully.</p>
