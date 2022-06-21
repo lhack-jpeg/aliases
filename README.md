@@ -48,3 +48,5 @@
 <p>This command is a shorthand for compiling c files with the holberton options. use <strong> gcco [filename]</strong></p>
 <h4>rmf~</h4>
 <p>This command removes all files ending with '~' in the current directory forcefully.</p>
+<h4>emread</h4>
+<p>This command creates a README.md file with an empty h1 and h2 heading</p>
