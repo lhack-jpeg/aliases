@@ -50,5 +50,5 @@
 <p>This command removes all files ending with '~' in the current directory forcefully.</p>
 <h4>emread</h4>
 <p>This command creates a README.md file with an empty h1 and h2 heading</p>
-<h4>../</h4>
+<h4>...</h4>
 <p>This command can be used to change to a different directory in the previous working directory</p>
