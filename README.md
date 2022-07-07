@@ -26,6 +26,10 @@
 <p>gis is shorthand for git status. This shows the current state of which files are up-to-date, changed or untracked.</p>
 <h4>gir</h4>
 <p>gir is short hand for git rm. To use the command: gir rm [file]</p>
+<h4>gichb</h4>
+<p>This command is a shorthand for <strong>git checkout -b</strong> which creates and changes to the branch following the command. E.g <strong>gichb [branch name]</strong>.</p>
+<h4>gim</h4>
+<p>This command is a shorthand for git merge</p>
 <h4>em</h4>
 <p>em is shorthand for emacs. Use the command as: em [file]</p>
 <h4>..</h4>
