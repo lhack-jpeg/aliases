@@ -20,6 +20,8 @@
 <p>gic is short hand for git commit -m. To use the command follow gic 'Your descriptive commit message'</p>
 <h4>gip</h4>
 <p>gip is shorthand for git push</p>
+<h4>gipl</h4>
+<p>gipl is a shorthand for git pull</p>
 <h4>gwb</h4>
 <p>gwb is shorthand for git branch -a. This command is meant to show which current branch you are working on</p>
 <h4>gis</h4>
@@ -54,3 +56,7 @@
 <p>This command removes all files ending with '~' in the current directory forcefully.</p>
 <h4>emread</h4>
 <p>This command creates a README.md file with an empty h1 and h2 heading</p>
+<h4>cim</h4>
+<p>This command adds <strong>#include \"main.h\"</strong> followed by comment starters.</p>
+<h4>em.h</h4>
+<p>This command creates an empty main.h file with guards.</p>
