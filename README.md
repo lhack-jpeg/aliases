@@ -57,7 +57,7 @@
 <h4>emread</h4>
 <p>This command creates a README.md file with an empty h1 and a h2 filled out with the author name.</p>
 <p>To set the environment variable on a linux machine</p>
-<code>export AUTHOR='<YOUR_NAME_HERE>'</code>
+<code>export AUTHOR='\<YOUR_NAME_HERE\>'</code>
 <h4>cim</h4>
 <p>This command adds <strong>#include \"main.h\"</strong> followed by comment starters.</p>
 <h4>em.h</h4>
