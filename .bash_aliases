@@ -18,6 +18,6 @@ alias envb='echo "#!/usr/bin/env bash" >'
 alias gcco='gcc -Wall -Werror -Wextra -pedantic -std=gnu89'
 alias ccf='echo -e "#include <stdio.h>\n/**\n *main -\n *\n *Return:\n */" >'
 alias rmf~='rm -f *~'
-alias emread='echo -e "<h1></h1>\n<h2>By Dylan Anderson</h2>\n<h3>Will add more later if needed</h3>" > README.md'
+alias emread='echo -e "<h1></h1>\n<h2>By </h2>\n"
 alias cim='echo -e "#include \"main.h\"\n/**\n * \n * \n * \n * \n */" >'
 alias em.h='echo -e "#ifndef _MAIN_H_\n#define _MAIN_H_\n\n#endif /* _MAIN_H_ */" >'
