@@ -62,3 +62,5 @@
 <p>This command adds <strong>#include \"main.h\"</strong> followed by comment starters.</p>
 <h4>em.h</h4>
 <p>This command creates an empty main.h file with guards.</p>
+#### shepy
+This command generates a python script with <code>#!/usr/bin/python3</code> as the top line
