@@ -1,3 +1,4 @@
 #!/bin/bash
 cp ~/aliases/.bash_aliases /$HOME/
+cp ~/aliases/.bashrc /$HOME/
 source ~/.bashrc
