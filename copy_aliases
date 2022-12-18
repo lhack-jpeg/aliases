@@ -1,4 +1,5 @@
 #!/bin/bash
 cp ~/aliases/.bash_aliases /$HOME/
 cp ~/aliases/.git-prompt.sh /$HOME/
+cp ~/aliases/.bashrc /$HOME/
 source ~/.bashrc
